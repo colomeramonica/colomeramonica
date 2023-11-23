@@ -3,6 +3,11 @@
         <samp>&gt; Hello!, I'm Mônica!</samp>
 </h3>
 
+
+<p align="center">
+        <img src="https://github.com/colomeramonica/colomeramonica/assets/31771443/1880d178-8d6a-4d18-94b8-01b7dfd7cc6b" width="200" style="border-radius: 50%">
+</p>
+
 <p align="center"> 
   <samp>
     <br>
@@ -19,7 +24,7 @@
 
 ## About me
 <p>
-  <img align="right" width="350" src="https://i.pinimg.com/originals/67/f1/89/67f18900a03f63f82e76bf5c91c4c1b3.gif" alt="Coding gif" />
+  <img align="right" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding gif" />
   
   👯 &emsp; I’m looking to collaborate on open source repositories and projects <br/>
   📫 &emsp; How to reach me: colomeramonica@gmail.com  <br/>
