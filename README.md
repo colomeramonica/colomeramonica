@@ -27,7 +27,7 @@
   <img align="right" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding gif" />
   
   👯 &emsp; I’m looking to collaborate on open source repositories and projects <br/>
-  🌸 &emsp; Currently expanding my knowledge by learning frontend programming languagens and technologies
+  🌸 &emsp; Currently expanding my knowledge by learning frontend programming languagens and technologies <br/>
   📫 &emsp; How to reach me: colomeramonica@gmail.com  <br/>
   😄 &emsp; Pronouns: she/her <br/><br/>  
 </p>
@@ -36,7 +36,6 @@
 <p>
   
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![Laravel](	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
