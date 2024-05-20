@@ -11,7 +11,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack (backend focused) web developer from <b>Brazil</b> 」
+    「 I am a full stack web developer from <b>Brazil</b> 」
     <br>
     <br>
   </samp>
@@ -21,7 +21,6 @@
   <a href="https://open.spotify.com/user/12147317221?si=8d935d715e994cce" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://www.linkedin.com/in/colomeramonica" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </p>
-
 ## About me
 <p>
   <img align="right" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding gif" />
@@ -35,20 +34,13 @@
 ## Main tech stack
 <p>
   
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![Laravel](	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,docker,nodejs,vue&theme=dark)](https://skillicons.dev)
 </p>
 
 ## Currently learning
 <p>
         
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,angular,tailwind&theme=dark)](https://skillicons.dev)
 
 </p>
         
