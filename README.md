@@ -34,7 +34,7 @@
 ## Main tech stack
 <p>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,docker,nodejs,vue&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,docker,nodejs,vue&theme=dark)](https://skillicons.dev)
 </p>
 
 ## Currently learning
