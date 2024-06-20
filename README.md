@@ -3,11 +3,6 @@
         <samp>&gt; Hello!. I'm Mônica!</samp>
 </h3>
 
-
-<p align="center">
-        <img src="https://github.com/colomeramonica/colomeramonica/assets/31771443/1880d178-8d6a-4d18-94b8-01b7dfd7cc6b" width="200" style="border-radius: 50%">
-</p>
-
 <p align="center"> 
   <samp>
     <br>
