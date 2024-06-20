@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello!. I'm Mônica!</samp>
+        <samp>&gt; Hello! I'm Mônica!</samp>
 </h3>
 
 <p align="center"> 
