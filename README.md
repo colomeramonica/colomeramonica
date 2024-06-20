@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello!, I'm Mônica!</samp>
+        <samp>&gt; Hello!. I'm Mônica!</samp>
 </h3>
 
 
@@ -21,14 +21,19 @@
   <a href="https://open.spotify.com/user/12147317221?si=8d935d715e994cce" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://www.linkedin.com/in/colomeramonica" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </p>
+
 ## About me
+
 <p>
-  <img align="right" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" alt="Coding gif" />
+  👯 I have a degree in Computer Science and have been working in web development since 2017 <br/>
+        
+  🌸 With extensive expertise in PHP and Javascript over the years, I recently ventured into React and NodeJS. <br/>
   
-  👯 &emsp; I’m looking to collaborate on open source repositories and projects <br/>
-  🌸 &emsp; Currently expanding my knowledge by learning frontend programming languagens and technologies <br/>
-  📫 &emsp; How to reach me: colomeramonica@gmail.com  <br/>
-  😄 &emsp; Pronouns: she/her <br/><br/>  
+  🎯 My goal is to leverage technology to automate and streamline tedious and costly processes, freeing up human time to focus on creating unique and irreplaceable things <br/>
+  
+  📫 How to reach me: colomeramonica@gmail.com  <br/>
+  
+  😄 Pronouns: she/her <br/><br/>  
 </p>
 
 ## Main tech stack
@@ -40,7 +45,7 @@
 ## Currently learning
 <p>
         
-[![My Skills](https://skillicons.dev/icons?i=ts,react,angular,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind&theme=dark)](https://skillicons.dev)
 
 </p>
         
