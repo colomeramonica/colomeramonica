@@ -24,7 +24,7 @@
         
   🌸 With extensive expertise in PHP and Javascript over the years, I recently ventured into React and NodeJS. <br/>
   
-  🎯 My goal is to leverage technology to automate and streamline tedious and costly processes, freeing up human time to focus on creating unique and irreplaceable things <br/>
+  🎯 My goal is to use technology to make boring and expensive tasks easier and faster, so people can spend their time on making cool and one-of-a-kind stuff <br/>
   
   📫 How to reach me: colomeramonica@gmail.com  <br/>
   
