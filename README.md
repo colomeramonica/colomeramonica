@@ -92,10 +92,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-###
+### Nice cards
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=colomeramonica&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colomeramonica&layout=donut&theme=radical)](https://github.com/colomeramonica/github-readme-stats)
 
-###
+
