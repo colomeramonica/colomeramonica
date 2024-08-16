@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨  I have a degree in Computer Science and have been working in web development since 2017<br><br>📚 With extensive expertise in PHP and Javascript over the years, I recently ventured into React and NodeJS<br><br>🎯 My goal is to use technology to make boring and expensive tasks easier and faster, so people can spend their time on making cool and one-of-a-kind stuff<br><br>📫 How to reach me: colomeramonica@gmail.com<br><br>😄 Pronouns: she/her</p>
+<p align="left">✨  I have a degree in Computer Science and have been working with web development since 2017<br><br>📚 I have extensive experience, having worked with PHP for years and, since 2024, I have focused on mastering frontend development with React, TypeScript, and Node.js.<br><br>🎯 My goal is to use technology to make nice things that improve people's lives</br><br>📫 How to reach me: colomeramonica@gmail.com<br></p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">What can I do</h2>
+<h2 align="left">Tech stack</h2>
 
 ###
 
